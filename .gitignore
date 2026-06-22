@@ -1,0 +1,42 @@
+# NetBeans private files
+/nbproject/private/
+
+# Build and distribution folders
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# Environment and private config files
+.env
+config.properties
+database.properties
+db.properties
+application.properties
+
+# Generated local reports, exports, and assistant workspace files
+/output/
+/.agents/
+*.pdf
+*_backup_*.sql
+label14.txt
+*.tmp
+*.bak
